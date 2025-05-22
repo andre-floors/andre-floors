@@ -3,7 +3,7 @@
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,py" />
   </a>
 </p>
 <!---
