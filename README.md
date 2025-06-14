@@ -49,15 +49,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andre-floors&show_icons=true&theme=radical" alt="Andre's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andre-floors&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Andre's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre-floors&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre-floors&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-floors&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-floors&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
