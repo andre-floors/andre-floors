@@ -53,10 +53,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre-floors&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-floors&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
