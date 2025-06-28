@@ -8,6 +8,8 @@
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,cs,java,arduino" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,php" />
 </p>
 
 <p align="center"><strong>Frameworks & Libraries</strong></p>
