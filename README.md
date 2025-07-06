@@ -24,7 +24,7 @@
 
 <p align="center"><strong>Design Tools</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps" />
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
 </p>
 
 ---
