@@ -19,7 +19,7 @@
 
 <p align="center"><strong>Developer Tools & IDEs</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 </p>
 
 <p align="center"><strong>Design Tools</strong></p>
