@@ -14,7 +14,7 @@
 
 <p align="center"><strong>Frameworks & Libraries</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind, laravel" />
+  <img src="https://skillicons.dev/icons?i=tailwind,laravel" />
 </p>
 
 <p align="center"><strong>Developer Tools & IDEs</strong></p>
