@@ -7,9 +7,9 @@
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,cs,java,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,java" />
   <br />
-  <img src="https://skillicons.dev/icons?i=mysql,php" />
+  <img src="https://skillicons.dev/icons?i=arduino,mysql,php" />
 </p>
 
 <p align="center"><strong>Frameworks & Libraries</strong></p>
